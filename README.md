@@ -19,7 +19,8 @@ $ pip install --upgrade pip
 $ git clone https://github.com/NAZRI-XD23/InstagramV2
 $ ls ( L kecil )
 $ cd InstagramV2
-$ python ins_enc.py
+$ git pull (Jangan Lupa Git pull Kontol)
+$ python Igya_enc.py
 ```
 ## Cara Update
 ```php
@@ -27,7 +28,7 @@ $ cd
 $ cd InstagramV2
 $ ls ( L kecil )
 $ git pull
-$ python ins_enc.py
+$ python Igya_enc.py
 ```
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/AdjAlvino)
